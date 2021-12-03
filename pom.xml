@@ -12,6 +12,7 @@
         <module>eurekaserver</module>
         <module>eurekaclient</module>
         <module>gateway</module>
+        <module>feign</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>
